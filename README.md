@@ -2,6 +2,8 @@
 Desk Engine 
 
 Desk Engine is a professional, lightweight desktop overlay utility for Windows. It allows you to place GIFs, images, and videos directly onto your desktop, perfect for dashboard aesthetics, monitoring visual feeds, or just decorating your workspace.
+![demo1](https://github.com/user-attachments/assets/95f4f149-9f39-4981-9554-5b5eccc57bdc)
+
 
 Desk Engine Banner License Platform
 ✨ Features
