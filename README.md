@@ -69,9 +69,6 @@ Because this application is not code-signed with an expensive Microsoft certific
 2. Verify the App name (*Desk Engine*).
 3. Click **Run anyway**.
 
-
-The portable exe is cross-buildable from Linux/macOS without wine — icons and version info are embedded by `build/after-pack.js` (resedit). A headless smoke suite is included (`npm run smoke`, plus the `DESK_ENGINE_SMOKE_PERSIST` phases — each prints `[SMOKE] ALL OK`).
-
 **Stack:** Electron 33 · React 18 · Vite 5 · gifuct-js — media is streamed through a privileged local `dmedia://` protocol (no Node in renderers, strict CSP).
 
 ##  License
