@@ -7,7 +7,7 @@ Desk Engine is a professional, lightweight desktop overlay utility for Windows. 
 <img width="800" height="805" alt="deskengine" src="https://github.com/user-attachments/assets/5101ced1-4c86-4f5a-8c39-b1eeb00e1ef7" />
 
 
-![Desk Engine Banner](https://img.shields.io/badge/Desk%20Engine-v5.1.1-818cf8) ![License](https://img.shields.io/badge/License-MIT-a78bfa) ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-38bdf8)
+![License](https://img.shields.io/badge/License-MIT-a78bfa) ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-38bdf8)
 
 ## Features
 
