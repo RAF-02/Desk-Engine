@@ -69,17 +69,6 @@ Because this application is not code-signed with an expensive Microsoft certific
 2. Verify the App name (*Desk Engine*).
 3. Click **Run anyway**.
 
-##  For Developers (run from source)
-
-```bash
-git clone https://github.com/RAF-02/Desk-Engine
-cd Desk-Engine
-npm install
-
-npm run dev            # development (Vite HMR + Electron)
-npm start              # production run (builds the renderer first)
-npm run dist           # build the portable Windows exe into release/
-```
 
 The portable exe is cross-buildable from Linux/macOS without wine — icons and version info are embedded by `build/after-pack.js` (resedit). A headless smoke suite is included (`npm run smoke`, plus the `DESK_ENGINE_SMOKE_PERSIST` phases — each prints `[SMOKE] ALL OK`).
 
